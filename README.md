@@ -1,6 +1,7 @@
 # choootype.js
-====
 
+## codepen
+https://codepen.io/superdaisi/pen/jOLOJpx
 ## ファイル構成
 
 - `README.md`
@@ -41,6 +42,7 @@
 ## オプション
 
 choootypeでは以下のオプションが利用できます。
+### 使用方法
 
 | パラメータ | 形式 | 概要 | デフォルト値 |
 | :---: | --- | --- | --- |
