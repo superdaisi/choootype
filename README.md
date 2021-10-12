@@ -1,5 +1,7 @@
 # choootype.js
 
+## codepen
+https://codepen.io/superdaisi/pen/jOLOJpx
 ## ファイル構成
 
 - `README.md`
