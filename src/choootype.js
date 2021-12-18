@@ -81,7 +81,7 @@ var Choootype = function (sel = ".choootype", opt = {}) {
         if (isChoootype != null) {
           box.innerHTML = isChoootype.innerHTML;
           __setChoootype(sel);
-        };
+        }
       });
     }, delay);
   }, false);
